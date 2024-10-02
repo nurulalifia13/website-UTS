@@ -1,0 +1,20 @@
+.jumbotron {
+    padding: 4rem 1rem;
+    background-color: hsl(32, 88%, 61%);
+}
+.project {
+    background-color: hsl(32, 88%, 61%);
+}
+  .bg-orange {
+    background-color: #f7bc63; 
+  }
+  body {
+    background-image: url('background.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    color: white; 
+}
